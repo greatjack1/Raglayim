@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Raglayim</string>
+    <string name="start_button">Start Raglayim</string>
+    <string name="accelchanged">The sensor change event</string>
+    <string name="progress_textview">13</string>
+    <string name="sensitivity_textview">Sensitivity Level:</string>
+
+</resources>
