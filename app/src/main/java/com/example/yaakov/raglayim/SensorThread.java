@@ -14,6 +14,7 @@ import java.net.Socket;
 
 /**
  * Created by yaakov on 2/26/17.
+ * This class is a background thread that keeps track of movements and based on the movements plays or pauses the video
  */
 
 public class SensorThread implements SensorEventListener {
